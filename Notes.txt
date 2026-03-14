@@ -1,2 +1,9 @@
 git status
 git init -b main
+
+git status
+git add <file_name>
+git log
+
+git commit -m "Message"
+
