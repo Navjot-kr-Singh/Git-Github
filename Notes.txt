@@ -7,3 +7,6 @@ git log
 
 git commit -m "Message"
 
+git diff
+git diff -staged
+
